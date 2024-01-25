@@ -7,3 +7,4 @@
 <a href="mailto:ckdlghd3791@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ckdlghd3791@gmail.com"/>
 </a>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
